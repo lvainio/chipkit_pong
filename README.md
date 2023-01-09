@@ -1,1 +1,2 @@
-# chipkit_pong
+# dtek-project
+Advanced Pong
